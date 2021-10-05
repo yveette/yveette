@@ -1,47 +1,45 @@
-### Hi there 👋
-
-<!-- ## 👋 &nbsp;Hey there! I'm Ivet -->
+### Hey there! I'm Ivet 👋
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Web Development at Software University (SoftUni), Sofia.
 
 
 ### 🛠 &nbsp;Tech Stack
 
-<p align="left"> 
-  &emsp;
+<p align="center"> 
+  &ensp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
-  &emsp;
+  &ensp;
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
-  &emsp;
+  &ensp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a>
-  &emsp;
+  &ensp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
+  &ensp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23A03522.svg?logo=github&logoColor=white"></a>
-  &emsp;
+  &ensp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
+  &ensp;
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
     <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-2070AA?style=flat&logo=Adobe%20Photoshop&logoColor=white"/>
   </a>
-  &emsp;
+  &ensp;
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
     <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
   </a>
-  &emsp;
+  &ensp;
   <a href="#">
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
-  &emsp; 
+  &ensp; 
 </p>
 
 
@@ -54,9 +52,7 @@
 </p>
 
 ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yveette&theme=nord)
- 
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yveette&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/yveette/github-readme-activity-graph)
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yveette&theme=nord&hide_border=true)
 
  
 ### 🤝🏻 &nbsp;Connect with Me
