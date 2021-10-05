@@ -19,15 +19,18 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 
-<p align="center">
+## 🔥 Streak Stats
+<p align="left">
 <a href="https://github.com/yveette">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yveette&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yveette&theme=algolia" alt="yveette" /></p>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yveette&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 </p>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yveette&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
