@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Web Development at Software University (SoftUni), Sofia.\
+🎓 &nbsp;I'm currently studying Web Development at Software University (SoftUni), Sofia.
 
 
 ### 🛠 &nbsp;Tech Stack
