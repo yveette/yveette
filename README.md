@@ -10,14 +10,6 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
 <p align="left"> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -33,6 +25,8 @@
   </a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23A03522.svg?logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
@@ -55,13 +49,37 @@
 ## 🔥 Streak Stats
 <p>
 <a href="https://github.com/yveette">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yveette&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yveette&layout=compact&langs_count=8&theme=nord&hide_border=true"/>
 </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yveette&theme=algolia" alt="yveette" /></p>
 
+### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yveette&theme=nord)
+ 
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yveette&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/yveette/github-readme-activity-graph)
 
+ 
 ### 🤝🏻 &nbsp;Connect with Me
 
-
+<p align="left"> 
+  &emsp;
+  <a href="https://www.facebook.com/Dimitrova.tevi/" target="_blank"> 
+     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+   </a>
+  &emsp;
+  <a href="https://www.linkedin.com/in/ivet-d-0535a31b5/" target="_blank"> 
+     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+  &emsp;
+  <a href="https://mail.google.com/mail/u/?authuser=dimitrova.v.ivet@gmail.com" target="_blank"> 
+     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   </a>
+  &emsp;
+  <a href="https://www.instagram.com/dimitrova_tevi/" target="_blank"> 
+     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
+  &emsp;
+    
+  &emsp; 
+</p>
 
