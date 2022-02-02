@@ -110,7 +110,7 @@
 
 ### 🔥 Streak Stats
 <p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yveette&layout=compact)](https://github.com/yveette)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yveette&layout=compact)](https://github.com/yveette)
 </p>
 
 
