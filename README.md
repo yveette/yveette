@@ -114,12 +114,22 @@
 </a>
 
 <details> 
-  <summary> ### 📈 GitHub Activity Graph: </summary>
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yveette&theme=nord&hide_border=true)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yveette&theme=vue)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yveette&theme=vue)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yveette&theme=vue)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yveette&theme=nord)
+  <summary> 📈 GitHub Activity Graph: </summary>
+  <a href="https://activity-graph.herokuapp.com">
+    <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yveette&theme=nord&hide_border=true">
+  </a>
+  <a href="https://github-profile-summary-cards.vercel.app">
+    <img alt="DenverCoder1's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yveette&theme=vue">
+  </a>
+  <a href="https://github-profile-summary-cards.vercel.app">
+    <img alt="DenverCoder1's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yveette&theme=vue">
+  </a>
+  <a href="https://github-profile-summary-cards.vercel.app">
+    <img alt="DenverCoder1's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yveette&theme=vue">
+  </a>
+  <a href="https://github-readme-stats.vercel.app">
+    <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yveette&theme=nord">
+  </a>
 </details> 
 ### 🤝🏻 &nbsp;Connect with Me
 
