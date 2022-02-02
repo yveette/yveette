@@ -109,28 +109,18 @@
 </p>
 
 ### 🔥 Streak Stats
-<p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yveette&layout=compact)](https://github.com/yveette)
-</p>
-
-
 <a href="https://github.com/yveette">
-  <img height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yveette&layout=compact&langs_count=8&theme=nord&hide_border=true">
+  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yveette&layout=compact&langs_count=8&theme=nord&hide_border=true">
 </a>
 
-
-
-
 <details> 
-  <summary> 📈 GitHub Activity Graph: </summary>
+  <summary> ### 📈 GitHub Activity Graph: </summary>
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yveette&theme=nord&hide_border=true)
-</details> 
- 
- 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yveette&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yveette&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yveette&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yveette&theme=vue)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yveette&theme=vue)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yveette&theme=vue)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yveette&theme=nord)
+</details> 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left"> 
