@@ -3,9 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.
-:raising_hand: &nbsp;Full Stack JavaScript Developer Student.
+🙋‍♀️ &nbsp;Full Stack JavaScript Developer Student.
 🎓 &nbsp;I'm currently studying Web Development at Software University (SoftUni), Sofia.
-:books: &nbsp;Daily learn Front-end и Back-end sides of a websites.
+📚 &nbsp;Daily learn Front-end и Back-end sides of a websites.
 
 
 ### 🛠 &nbsp;Tech Stack
