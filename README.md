@@ -1,29 +1,27 @@
-## Hey there! 👋
+# Hey there! 👋
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?color=%2339D353&size=24&lines=I'm+Ivet+Dimitrova;Front+End+Developer+Student"><img src="https://readme-typing-svg.herokuapp.com?color=%2339D353&size=24&lines=I'm+Ivet+Dimitrova;Front+End+Developer+Student" alt="I'm Ivet Dimitrova"></a>
+  <a href="https://readme-typing-svg.herokuapp.com?color=%2339D353&size=24&center=true&lines=I'm+Ivet+Dimitrova;Front+End+Developer+Student"><img src="https://readme-typing-svg.herokuapp.com?color=%2339D353&size=24&center=true&lines=I'm+Ivet+Dimitrova;Front+End+Developer+Student" alt="I'm Ivet Dimitrova"></a>
 </p>
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 - 🏙️ &nbsp;Currently living in **Sofia**, Bulgaria.
 - 🙋‍♀️ &nbsp;Full Stack **JavaScript** Developer Student.
 - 🎓 &nbsp;I'm currently studying Web Development at Software University (**SoftUni**).
 - 📚 &nbsp;Daily learn **Front-end** и **Back-end** sides of a websites.
 - 💡 &nbsp;I like to explore new technologies and develop software solutions.
+- 🦉 &nbsp;I've always been an early bird but I've become a **night owl**.
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 <p align="left"> 
-  &ensp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
-  &ensp;
   <a href="https://www.w3.org/html" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
-  &ensp;
   <a href="https://www.w3schools.com/css" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a>
@@ -114,24 +112,24 @@
   &ensp;
 </p>
 
-### 📔 &nbsp;Portfolio
+## 📔 &nbsp;Portfolio
 > *pending...*
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left"> 
   &emsp;
   <a href="https://www.linkedin.com/in/ivet-d-0535a31b5/" target="_blank"> 
-     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
    </a>
   &emsp;
   <a href="https://mail.google.com/mail/u/?authuser=dimitrova.v.ivet@gmail.com" target="_blank"> 
-     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
    </a>
   &emsp;
 </p>
 
-### 🔥 Streak Stats
+## 🔥 Streak Stats
 <a href="https://github.com/yveette">
   <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yveette&layout=compact&langs_count=8&theme=nord&hide_border=true">
 </a>
