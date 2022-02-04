@@ -1,12 +1,16 @@
-## Hey there! I'm Ivet Dimitrova 👋
+## Hey there! 👋
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com?color=%2339D353&size=24&lines=I'm+Ivet+Dimitrova;Front+End+Developer+Student"><img src="https://readme-typing-svg.herokuapp.com?color=%2339D353&size=24&lines=I'm+Ivet+Dimitrova;Front+End+Developer+Student" alt="I'm Ivet Dimitrova"></a>
+</p>
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions.
-🙋‍♀️ &nbsp;Full Stack JavaScript Developer Student.
-🎓 &nbsp;I'm currently studying Web Development at Software University (SoftUni), Sofia.
-📚 &nbsp;Daily learn Front-end и Back-end sides of a websites.
-
+- 🏙️ &nbsp;Currently living in **Sofia**, Bulgaria.
+- 🙋‍♀️ &nbsp;Full Stack **JavaScript** Developer Student.
+- 🎓 &nbsp;I'm currently studying Web Development at Software University (**SoftUni**).
+- 📚 &nbsp;Daily learn **Front-end** и **Back-end** sides of a websites.
+- 💡 &nbsp;I like to explore new technologies and develop software solutions.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -109,6 +113,9 @@
   </a>
   &ensp;
 </p>
+
+### 📔 &nbsp;Portfolio
+> *pending...*
 
 ### 🤝🏻 &nbsp;Connect with Me
 
